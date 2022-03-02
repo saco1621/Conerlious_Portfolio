@@ -1,4 +1,4 @@
-# Conerlious_Sagandira_Portfolio
+# Conerlious_Portfolio
 Data Analytics Portfolio
 
 # [Project 1: Cyclistic Bike share - Case study](https://rpubs.com/Corny26Saga/871934) 
