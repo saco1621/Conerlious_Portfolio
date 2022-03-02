@@ -8,3 +8,4 @@ Data Analytics Portfolio
 * Cleaned the data using R language and Excel. 
 * Created visualisations using RStudio. 
 
+# Project 2: Data Analysis Salary Estimator
