@@ -11,7 +11,7 @@ Data Analytics Portfolio
     ![](https://i.imgur.com/BMzgXmI.png)
 
 
-# [Project 2: Data Analysis Salary Estimator](git@github.com:saco1621/da_salary_proj.git)
+# [Project 2: Data Analysis Salary Estimator](https://github.com/saco1621/da_salary_proj.git)
 * This project is about a tool i created which can be used to estimate data analyst salaries. The tool can be used by data analysts to negotiate their incomewhen they get new jobs.
 * The tool features the expected data analyst skill and shows how companies value them for a certain income. I used Python, Tableau, AWS, Spark, R, SQL and R.
 * Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
