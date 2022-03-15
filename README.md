@@ -17,9 +17,10 @@ Data Analytics Portfolio
 * Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
 * Finally, i built a client facing API using Flask. 
 
-
-
  ![](https://i.imgur.com/pBi8etL.png)      ![](https://i.imgur.com/LH6df3C.png)
+ 
+ 
+ 
  
  ![](https://i.imgur.com/oGMba1p.png)
 
