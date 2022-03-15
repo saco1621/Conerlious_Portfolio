@@ -17,7 +17,7 @@ Data Analytics Portfolio
 * Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
 * Finally, i built a client facing API using Flask. 
 
-| Correlation Visial    | Age, Avg_Salary, Rating   |
+| Correlation Visual    | Age, Avg_Salary, Rating   |
 | -------------- | -------------- |
 | ![](https://i.imgur.com/pBi8etL.png)   | ![](https://i.imgur.com/LH6df3C.png) |
 
