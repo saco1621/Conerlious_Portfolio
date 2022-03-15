@@ -10,8 +10,6 @@ Data Analytics Portfolio
 
     ![](https://imgur.com/BMzgXmI)
 
-    
-    
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
 * This project is about a tool i created which can be used to estimate data analyst salaries. The tool can be used by data analysts to negotiate their incomewhen they get new jobs.
@@ -27,7 +25,7 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
             cbar_kws = {"shrink": .5})
 ```
-
+   [Imgur](https://imgur.com/BMzgXmI)
   
   ![](https://imgur.com/BMzgXmI)
 
