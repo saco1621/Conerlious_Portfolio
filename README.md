@@ -25,13 +25,13 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
             cbar_kws = {"shrink": .5})
 ```
-Palette                                |  Average Salary
-:-------------------------------------:|:----------------------------------------:
- ![](https://i.imgur.com/pBi8etL.png)  |  ![](https://i.imgur.com/oGMba1p.png)
 
 
-  
-  ![](https://imgur.com/BMzgXmI)
+ ![](https://i.imgur.com/pBi8etL.png)   
+ 
+ 
+ ![](https://i.imgur.com/oGMba1p.png)
+
 
 #### Age, Average Salary & Rating Box Plot
 
