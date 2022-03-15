@@ -26,8 +26,8 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             cbar_kws = {"shrink": .5})
 ```
 
-  ![](https://imgur.com/pBi8etL)
   
+  ![](https://imgur.com/pBi8etL)
 
 #### Age, Average Salary & Rating Box Plot
 ```{r}
@@ -36,7 +36,6 @@ df.boxplot(column = ['age','avg_salary','Rating'])
 
   ![](https://imgur.com/LH6df3C)
 
- ![](https://i.imgur.com/BMzgXmI.png)
 #### Average Salary vs Siniority Pivot Table
 ```{r}
 pd.pivot_table(df, index = ['job_simp','seniority'], values = 'avg_salary')
