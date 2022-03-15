@@ -9,6 +9,8 @@ Data Analytics Portfolio
 * Created visualisations using RStudio. 
 
     ![Imgur](https://imgur.com/BMzgXmI)
+    [img]https://i.imgur.com/BMzgXmI.png[/img]
+    
     
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
