@@ -9,7 +9,7 @@ Data Analytics Portfolio
 * Created visualisations using RStudio. 
 
     ![](https://i.imgur.com/BMzgXmI.png)
-    ![Imgur](https://imgur.com/pBi8etL)
+    
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
 * This project is about a tool i created which can be used to estimate data analyst salaries. The tool can be used by data analysts to negotiate their incomewhen they get new jobs.
@@ -25,19 +25,22 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
             cbar_kws = {"shrink": .5})
 ```
-![Imgur](https://imgur.com/pBi8etL)
+
+  ![](https://imgur.com/pBi8etL)
+  
 
 #### Age, Average Salary & Rating Box Plot
 ```{r}
 df.boxplot(column = ['age','avg_salary','Rating'])
 ```
-![](https://imgur.com/LH6df3C)
+
+  ![](https://imgur.com/LH6df3C)
 
 #### Average Salary vs Siniority Pivot Table
 ```{r}
 pd.pivot_table(df, index = ['job_simp','seniority'], values = 'avg_salary')
 ```
-[Pivot Table (Av_Salary)](https://imgur.com/JkGegIy)
+  ![](https://imgur.com/JkGegIy)
 
 ### Improvements
 
