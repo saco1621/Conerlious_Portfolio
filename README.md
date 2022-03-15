@@ -8,7 +8,7 @@ Data Analytics Portfolio
 * Cleaned the data using R language and Excel. 
 * Created visualisations using RStudio. 
 
-    ![](https://ibb.co/gt0Fbgw)
+    ![Imgur](https://imgur.com/BMzgXmI)
     
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
