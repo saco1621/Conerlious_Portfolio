@@ -16,15 +16,12 @@ Data Analytics Portfolio
 * The tool features the expected data analyst skill and shows how companies value them for a certain income. I used Python, Tableau, AWS, Spark, R, SQL and R.
 * Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
 * Finally, i built a client facing API using Flask. 
-#### Average Salary Vs Age VS Rating
- ![](https://i.imgur.com/pBi8etL.png)   ![](https://i.imgur.com/LH6df3C.png)
 
 | Header A       | Header B       |
 | -------------- | -------------- |
 | ![](https://i.imgur.com/pBi8etL.png)   | ![](https://i.imgur.com/LH6df3C.png) |
-|  ![](https://i.imgur.com/JkGegIy.png)|
+|  ![](https://i.imgur.com/JkGegIy.png)|  ![](https://i.imgur.com/frNMRyb.png)|
 
-#### Average Salary vs Siniority Pivot Table
 
-   ![](https://i.imgur.com/JkGegIy.png)
+
 
