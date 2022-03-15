@@ -36,6 +36,7 @@ df.boxplot(column = ['age','avg_salary','Rating'])
 
   ![](https://imgur.com/LH6df3C)
 
+ ![](https://i.imgur.com/BMzgXmI.png)
 #### Average Salary vs Siniority Pivot Table
 ```{r}
 pd.pivot_table(df, index = ['job_simp','seniority'], values = 'avg_salary')
