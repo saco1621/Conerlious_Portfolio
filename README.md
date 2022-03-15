@@ -19,6 +19,10 @@ Data Analytics Portfolio
 #### Average Salary Vs Age VS Rating
  ![](https://i.imgur.com/pBi8etL.png)   ![](https://i.imgur.com/LH6df3C.png)
 
+| Header A       | Header B       |
+| -------------- | -------------- |
+| ![](https://i.imgur.com/pBi8etL.png)   | ![](https://i.imgur.com/LH6df3C.png) |
+|  ![](https://i.imgur.com/JkGegIy.png)|
 
 #### Average Salary vs Siniority Pivot Table
 
