@@ -9,8 +9,6 @@ Data Analytics Portfolio
 * Created visualisations using RStudio. 
 
     ![](https://i.imgur.com/BMzgXmI.png)
-    
-    ![](https://i.imgur.com/BLobcOS.png)
 
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
@@ -27,7 +25,7 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
             cbar_kws = {"shrink": .5})
 ```
-   [Imgur](https://imgur.com/BMzgXmI)
+   ![](https://i.imgur.com/pBi8etL.png)
   
   ![](https://imgur.com/BMzgXmI)
 
