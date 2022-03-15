@@ -8,7 +8,7 @@ Data Analytics Portfolio
 * Cleaned the data using R language and Excel. 
 * Created visualisations using RStudio. 
 
-    ![](https://imgur.com/BMzgXmI)
+    ![](https://i.imgur.com/BMzgXmI.png)
     
     ![](https://i.imgur.com/BLobcOS.png)
 
