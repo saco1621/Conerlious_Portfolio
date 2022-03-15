@@ -30,18 +30,12 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
   ![](https://imgur.com/BMzgXmI)
 
 #### Age, Average Salary & Rating Box Plot
-```{r}
-df.boxplot(column = ['age','avg_salary','Rating'])
-```
+
 
   ![](https://imgur.com/LH6df3C)
 
 #### Average Salary vs Siniority Pivot Table
-```{r}
-pd.pivot_table(df, index = ['job_simp','seniority'], values = 'avg_salary')
-```
-  ![](https://imgur.com/JkGegIy)
 
-### Improvements
+  ![] (https://imgur.com/JkGegIy)
 
-* Heroku can be used. 
+
