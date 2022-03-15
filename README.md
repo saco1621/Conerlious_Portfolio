@@ -11,6 +11,33 @@ Data Analytics Portfolio
     ![](https://i.imgur.com/BMzgXmI.png)
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
-* Created a tool that estimates data analysts salaries to help data analysts negotiate their income when they get a job. 
-* Build a client facing API using Flask
+* This project is about a tool i created which can be used to estimate data analyst salaries. The tool can be used by data analysts to negotiate their incomewhen they get new jobs.
+* The tool features the expected data analyst skill and shows how companies value them for a certain income. I used Python, Tableau, AWS, Spark, R, SQL and R.
+* Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
+* Finally, i built a client facing API using Flask. 
 
+
+#### Palette
+```{r}
+cmap = sns.diverging_palette(220,10,as_cmap = True)
+sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']].corr(),
+            vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
+            cbar_kws = {"shrink": .5})
+```
+![](https://imgur.com/Vuu373C)     
+
+#### Age, Average Salary & Rating Box Plot
+```{r}
+df.boxplot(column = ['age','avg_salary','Rating'])
+```
+![](https://imgur.com/LH6df3C)
+
+#### Average Salary vs Siniority Pivot Table
+```{r}
+pd.pivot_table(df, index = ['job_simp','seniority'], values = 'avg_salary')
+```
+[Pivot Table (Av_Salary)](https://imgur.com/JkGegIy)
+
+### Improvements
+
+* Heroku can be used. 
