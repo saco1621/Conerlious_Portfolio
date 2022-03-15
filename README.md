@@ -9,6 +9,7 @@ Data Analytics Portfolio
 * Created visualisations using RStudio. 
 
     ![](https://i.imgur.com/BMzgXmI.png)
+    ![Imgur](https://imgur.com/pBi8etL)
 
 # [Project 2: Data Analysis Salary Estimator](https://saco1621.github.io/da_salary_proj/)
 * This project is about a tool i created which can be used to estimate data analyst salaries. The tool can be used by data analysts to negotiate their incomewhen they get new jobs.
@@ -16,7 +17,6 @@ Data Analytics Portfolio
 * Made use of Random Forest, Lasso and Linear Regressors using GridsearchCV to get the best model for the tool. 
 * Finally, i built a client facing API using Flask. 
 
-https://imgur.com/Vuu373C
 
 #### Palette
 ```{r}
@@ -25,7 +25,7 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
             vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
             cbar_kws = {"shrink": .5})
 ```
-![](https://i.imgur.com/Vuu373C)
+![Imgur](https://imgur.com/pBi8etL)
 
 #### Age, Average Salary & Rating Box Plot
 ```{r}
