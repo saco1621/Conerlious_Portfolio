@@ -18,18 +18,10 @@ Data Analytics Portfolio
 * Finally, i built a client facing API using Flask. 
 
 
-#### Palette
-```{r}
-cmap = sns.diverging_palette(220,10,as_cmap = True)
-sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']].corr(),
-            vmax =.3, center = 0, cmap = cmap, square = True, linewidths =.5, 
-            cbar_kws = {"shrink": .5})
-```
 
-
- ![](https://i.imgur.com/pBi8etL.png)    ![](https://i.imgur.com/oGMba1p.png)
+ ![](https://i.imgur.com/pBi8etL.png)      ![](https://i.imgur.com/LH6df3C.png)
  
- 
+ ![](https://i.imgur.com/oGMba1p.png)
 
 #### Age, Average Salary & Rating Box Plot
 
