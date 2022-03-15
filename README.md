@@ -36,6 +36,6 @@ sns.heatmap(df[['age','avg_salary', 'Rating', 'description_len', 'number_comp']]
 
 #### Average Salary vs Siniority Pivot Table
 
-        ![](https://imgur.com/JkGegIy)
+   ![](https://imgur.com/JkGegIy)
 
 
