@@ -27,5 +27,31 @@ Data Analytics Portfolio
 |  ![](https://i.imgur.com/JkGegIy.png)|  ![](https://i.imgur.com/frNMRyb.png)|
 
 
-# [Project 3: Revenue and Profit Analysis for Rickaby Hardware](https://github.com/saco1621/da_salary_proj.git)
+# [Project 3: Revenue and Profit Analysis for Rickaby Hardware](https://rpubs.com/Corny26Saga/883259)
 
+Rickaby hardware is a company which supplies the hardware peripherals to different clients such as nomad stores etc. They have a head office in Mumbai India, and they have different regional offices in different cities of India. Dumisani Sagas is the sales director of this company, and he Is managing the business from the head office. So, what is happening with this company is that sales are declining and Dumisani as a sales director is having a lot of struggle tracking where the business is failing due to the size of the company which is big. When Dumisani calls his reginal mangers asking for information on why the sales are declining, unfortunately, his reginal managers are always giving him fuzzy and unclear information which can help him understand the root cause. In addition to that, they always give him big excel files of all transactions which is very difficult for Dumisani to transform all those excel sheets into insights. However, Dumisani calls for an emergency meeting with the sales director, marketing, customer, data analysis and IT teams. 
+
+**Based on Dumisani's request i managed to come up with**
+
++ Revenue breakdown by cities.
+
++ Revenue breakdown by years and months.
+
++ Show top 5 customers by revenue and sales quantity.
+
++ Top 5 products by revenue number.
+
+
+## Revenue Analysis Dashboard 
+
+For interactive experience use this link to [Revenue Analysis dashboard](https://dub01.online.tableau.com/#/site/rickabyhardwareworkbook/views/Rickaby_hardware_workbook/Dashboard1?:iid=1) 
+
+![](https://i.imgur.com/UHxfNMf.png)
+
+
+## Profit Analysis Dashboard 
+
+For interactive experience use this link to [Profit Analysis dashboard](https://dub01.online.tableau.com/#/site/rickabyhardwareworkbook/views/RickabyhardwareProfitAnalysis/ProfitAnalysis?:iid=1) 
+
+
+![](https://i.imgur.com/tq6V2oh.png)
