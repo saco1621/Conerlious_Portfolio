@@ -25,3 +25,7 @@ Data Analytics Portfolio
 | Avg_Salary  | Positions by Sector   |
 | -------------- | -------------- |
 |  ![](https://i.imgur.com/JkGegIy.png)|  ![](https://i.imgur.com/frNMRyb.png)|
+
+
+# [Project 3: Revenue and Profit Analysis for Rickaby Hardware](https://github.com/saco1621/da_salary_proj.git)
+
