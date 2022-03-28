@@ -1,7 +1,6 @@
 # Conerlious_Portfolio
 Data Analytics Portfolio
-
-*Please check my [Data Science Portfolio](https://saco1621.github.io/Conerlious_Datascience_portfolio/) for more projects. *
+Please check my [Data Science Portfolio](https://saco1621.github.io/Conerlious_Datascience_portfolio/) for more projects.
 
 # [Project 1: Cyclistic Bike share - Case study](https://rpubs.com/Corny26Saga/871934) 
 * Made recommendations on _**How can Cyclistic company convert casual riders/users to anual memebership?**_ business task for a company called Cyclistic. 
